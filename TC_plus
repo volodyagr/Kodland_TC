@@ -1,4 +1,4 @@
-#debud and make turtle do the same thing three times
+#debug and make the turtle do the same thing three times
 
 import turtle
 
